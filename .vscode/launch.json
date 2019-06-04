@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrepareStatementCompare",
+            "request": "launch",
+            "mainClass": "how2j.jdbc.PrepareStatementCompare"
+        }
+    ]
+}

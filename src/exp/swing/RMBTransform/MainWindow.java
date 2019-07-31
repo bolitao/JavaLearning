@@ -22,6 +22,7 @@ public class MainWindow extends JFrame {
         super("RMBTransform");
         this.setLayout(new FlowLayout(FlowLayout.RIGHT));
         this.setSize(300, 90);
+        this.setResizable(false);
         moneyLabel = new JLabel("RMB");
         resultLabel = new JLabel("Result");
         moneyTextField = new JTextField("12345678.90", 20);
